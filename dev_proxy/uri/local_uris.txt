@@ -1,0 +1,9 @@
+/datetime
+/auth/client/adjust
+/todo/check
+/change-language
+/server/version
+/doLogin
+/login
+/admin
+/rest
